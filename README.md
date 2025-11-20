@@ -56,6 +56,6 @@ Demonstrates Object-Oriented Programming (OOP), file handling, and input validat
 ---
 
 ## Author
-Mariam Abdaziz  
+Mariam Abdelaziz  
 C++ Developer | Bank System Project
 
