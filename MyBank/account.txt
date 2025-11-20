@@ -1,0 +1,9 @@
+1000|mariam mohamed|12345|$|3900
+1001|esraa mohammed|12345|$|7200
+1003|youssef mohammed|12345|$|3600
+1004|mariam mosaad|12345|$|20000
+1005|ahmed ali|12345|$|0
+1006|ahmed mohamed|12345|4|1000
+1007|eslaam ali|4|$|1000
+1008|amir ahmed|12345|$|0
+1009|mohammed|12345|$|29000
